@@ -1,5 +1,6 @@
 # Gamestar.github.io
-Oyun yıldızı
+<htm>
 < h1 >
 <body>
   <     başlık     > © Game Star 2020>
+<html>
