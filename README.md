@@ -1,5 +1,5 @@
 # Gamestar.github.io
-<htm>
+<html>
 < h1 >
 <body>
   <     başlık     > © Game Star 2020>
